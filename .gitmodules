@@ -1,0 +1,3 @@
+[submodule "RepositoryB"]
+	path = RepositoryB
+	url = https://github.com/KimRegina/RepositoryB.git
